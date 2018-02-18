@@ -1,4 +1,4 @@
-# PitchPerfect---Udacity
+# PitchPerfect-Udacity
 Udacity project_one_voice app
 The Pitch Perfect app is result of Intro to iOS App Development with Swift lesson of Udacity's iOS Developer Nanodegree course.
 
